@@ -1,0 +1,15 @@
+Area escogida es un proceso de la empresa
+simular
+
+
+marco teorico
+
+tiempo de llegada del cliente 
+timepo de demora 
+
+Definir los límites del sistema
+Definir el objetivo del estudio
+Resultados estadísitcos a obtener
+tiempos en cola, longitudes de las colas que se forman en los distintos
+sectores, tiempo que está cada cliente en el sistema, promedios, desviaciones standard,
+etc. 
